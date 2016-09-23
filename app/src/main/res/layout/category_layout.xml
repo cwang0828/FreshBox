@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VEGETABLE"
+        android:id="@+id/vegibutton"
+        android:onClick="chooseType"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MEAT"
+        android:id="@+id/meatbutton"
+        android:onClick="chooseType"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FRUIT"
+        android:id="@+id/fruitbutton"
+        android:onClick="chooseType"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CANNED"
+        android:id="@+id/cannedbutton"
+        android:onClick="chooseType"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DRINK"
+        android:id="@+id/drinkbutton"
+        android:onClick="chooseType"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OTHER1"
+        android:id="@+id/other1button"
+        android:onClick="chooseType"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OTHER2"
+        android:id="@+id/other2button"
+        android:onClick="chooseType"
+        />
+</LinearLayout>

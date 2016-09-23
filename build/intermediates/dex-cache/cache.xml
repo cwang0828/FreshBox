@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ebec10185397c91818cc76f6711ec984edf5ff39">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_67ec18e7a1d77f907da75dda7ac74fec1a7fa590/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_131820d152d631c350f4c8bae472b2a2393e16b7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_0945223de222b177809c47f9ebde61ed46262f76/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5b5625c352c6abc50e956b6ddfc13bcfdf940176/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_6d3a1bd31ad3e97575d7da69c2f01c3093a28006/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_5dcc2f435f5dfeab86a545f6cf91ff02e844caa0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_801b368ddc94d13d5a474583f7de1b7ef5fc5df9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e6c7d17aa3e7d56288071cf003069a479f1ee1e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b76d2aec38543f077865a01e7c9fe24c712aeded/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5d6dcf6b02cc2bbcfd1b11dea45932f1ab02d61">
+        <dex dex="/Users/mac/Dropbox/Hackathon/Start_up/MyKitchenApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c7f7d2a3f9be533b47a6d4ceb68ae7c975339121/classes.dex" />
+    </item>
+
+</items>
